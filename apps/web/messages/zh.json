@@ -60,7 +60,7 @@
       "publicUrlDesc": "公共存储桶的访问URL。<mono>public-url/object-path</mono>应该能够访问存储桶中的对象。\n在<more>文档</more>中了解更多。",
       "includePath": "包含路径",
       "includePathDesc": "可选的路径前缀，用于过滤对象（例如 \"i/\" 仅列出以 \"i/\" 开头的对象）。留空以列出所有对象。"
-    }，
+    },
     "s3Validation": {
       "status": {
         "valid": "有效",
