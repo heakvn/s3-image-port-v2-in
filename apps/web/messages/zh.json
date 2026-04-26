@@ -8,7 +8,7 @@
     "slogan": "<normal>您在 S3 中的<br></br>图片管家</normal>",
     "description": "轻松上传、查看和删除S3中的图片。同时兼容多种S3服务",
     "compatibility": "该项目使用 Stackryze域名,开发者的免费域名,让每个人都有一个免费的名字",
-    "getStarted": "开始使用"，
+    "getStarted": "开始使用",
     "readDocs": "阅读文档"
   },
   "settings": {
